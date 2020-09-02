@@ -522,4 +522,7 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+exe
+*.exe
+
 # End of https://www.toptal.com/developers/gitignore/api/c,python,intellij,pycharm,clion,jetbrains,java
