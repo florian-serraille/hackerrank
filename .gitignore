@@ -525,4 +525,6 @@ dmypy.json
 exe
 *.exe
 
+*/.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/c,python,intellij,pycharm,clion,jetbrains,java
