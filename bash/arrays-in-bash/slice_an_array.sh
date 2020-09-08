@@ -1,4 +1,4 @@
 #!/bin/bash
 
 readarray a
-echo ${a[3]}
+echo ${a[@]:3:5}
