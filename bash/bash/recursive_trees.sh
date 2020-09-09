@@ -1,4 +1,4 @@
-#!/bin/bash env
+#!/bin/bash
 
 function init_matrix(){
 	
